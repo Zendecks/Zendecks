@@ -1,7 +1,7 @@
 ![Contador de visitas do perfil](https://komarev.com/ghpvc/?username=zendecks&color=006bed)
 ## 🤘​ Olá, meu nome é Gustavo Suzuki Arakaki!
 
-## Sempre tive o sonho de ser um "dev", e hoje o sonho pode se tornar realidade. Acredito que tudo na vida tem o seu tempo e que melhorar e se desenvolver é a melhor escolha que alguém pode fazer. 
+Sempre tive o sonho de ser um "dev", e hoje o sonho pode se tornar realidade. Acredito que tudo na vida tem o seu tempo e que melhorar e se desenvolver é a melhor escolha que alguém pode fazer. 
 ---
 
 ## Sobre mim
